@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815720294444",
+    "project_id": "myprojectaula65",
+    "storage_bucket": "myprojectaula65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815720294444:android:6cea57ef9020919bcd8989",
+        "android_client_info": {
+          "package_name": "br.com.zup.exercicioaula65"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815720294444-2788470s49nh5a85ocu51gdln737avjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQSM1GscA4hMNhOVUBWuuIi51w1ipjGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815720294444-2788470s49nh5a85ocu51gdln737avjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
