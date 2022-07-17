@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
-import br.com.zup.exercicioaula65.R
 import br.com.zup.exercicioaula65.databinding.ActivityRegisterBinding
 import br.com.zup.exercicioaula65.domain.model.User
 import br.com.zup.exercicioaula65.ui.home.view.HomeActivity

@@ -5,4 +5,5 @@
     <string name="action_sign_in_short">Sign in</string>
     <string name="prompt_password">Password</string>
     <string name="prompt_email">Email</string>
+    <string name="ola">Olá</string>
 </resources>
